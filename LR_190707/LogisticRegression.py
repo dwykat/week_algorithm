@@ -99,16 +99,3 @@ if __name__ == '__main__':
     visualize(X, y, theta)
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
